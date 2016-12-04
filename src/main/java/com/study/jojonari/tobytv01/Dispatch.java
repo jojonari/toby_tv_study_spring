@@ -1,4 +1,4 @@
-package com.study.jojonari;
+package com.study.jojonari.tobytv01;
 
 import java.util.Arrays;
 import java.util.List;

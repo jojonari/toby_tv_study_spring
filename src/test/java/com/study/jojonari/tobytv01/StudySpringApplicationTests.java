@@ -1,4 +1,4 @@
-package com.study.jojonari;
+package com.study.jojonari.tobytv01;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
